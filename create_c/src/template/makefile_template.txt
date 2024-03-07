@@ -379,7 +379,7 @@ $(OBJ_DIR)/%.o: $(SRC_DIR)/%.c
 
 #  Adding line for run exe after Build
 run : $(PROJECT_NAME)
-	./$(PROJECT_NAME )
+	./game
 
 
 
@@ -408,5 +408,6 @@ ifeq ($(PLATFORM),PLATFORM_WEB)
 	del *.o *.html *.js
 endif
 	@echo Cleaning done
+
 
 
