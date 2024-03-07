@@ -76,7 +76,7 @@ empirique.
 
 HOLOROGIUM FLOERAE : 
 
-- Site de Documentation, La carte sur le site a été faite par au patterne de fleur dans le livre "De conspectu hortorum". Sur ce principe il ont devellopé un programme qui permet de convertire des carte botannique en ascci.
+- Site de Documentation, La carte sur le site a été faite par au patterne de fleur dans le livre "De conspectu hortorum". Sur ce principe il ont devellopé un programme qui permet de convertire des carte botannique en ascci.  
 LINK ==> https://horologiumflorae.fr
 
 
