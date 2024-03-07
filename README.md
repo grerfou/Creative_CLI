@@ -68,10 +68,10 @@ empirique.
 
 ## References : 
 
-https://thecreativeindependent.com/people/min-guhong/#3 --> Video de lui, site web
-https://www.terminaltutor.com/tutorial-contents
-https://synthia.love/
-https://yannickgregoire.nl/
+- https://thecreativeindependent.com/people/min-guhong/#3 --> Video de lui, site web
+- https://www.terminaltutor.com/tutorial-contents
+- https://synthia.love/
+- https://yannickgregoire.nl/
 
 
 
