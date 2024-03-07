@@ -143,4 +143,11 @@ Cette Estetique qui se degage de ces jeux etait le seul moyen de jouer a des jeu
 - https://thecreativeindependent.com/people/min-guhong/#3 --> Video de lui, site web
 
 
+Etienne Klein (Vulgarisation):
+
+- https://www.youtube.com/watch?v=JKavWKybIKU
+- https://www.youtube.com/watch?v=RwnicOFHehc
+- http://etienneklein.fr/livres/philo/ecrire_science/
+
+
 
