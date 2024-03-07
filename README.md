@@ -1,10 +1,10 @@
-Creative_CLI
+# Creative_CLI
 
 
-**Projet de logiciel CLI, pour donner un "marche pied" vers une premiere experience de la programmation créative et de la ligne de commande.**
+## **Projet de logiciel CLI, pour donner un "marche pied" vers une premiere experience de la programmation créative et de la ligne de commande.**
 
 
-# Les questions : 
+## Les questions : 
 
 Comment rendre le logiciel accécible ?
 
@@ -20,7 +20,7 @@ La question de comment "informer" et guider sur les otption choisit (langage, fr
 
 
 
-# Notes :
+## Notes :
 
 
 07/03/2024 :
@@ -35,7 +35,7 @@ empirique.
 
 
 
-# Liste non-exaustive de langage, librairie, frameWork : 
+## Liste non-exaustive de langage, librairie, frameWork : 
 
 **C/Cpp :**
 
@@ -66,7 +66,7 @@ empirique.
 
 
 
-# References : 
+## References : 
 
 https://thecreativeindependent.com/people/min-guhong/#3 --> Video de lui, site web
 https://www.terminaltutor.com/tutorial-contents
