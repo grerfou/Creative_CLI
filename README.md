@@ -37,14 +37,14 @@ empirique.
 
 # Liste non-exaustive de langage, librairie, frameWork : 
 
-C/Cpp : 
+**C/Cpp :**
 
-Raylib
-OpenCV
-OpenframeWork
+- Raylib
+- OpenCV
+- OpenframeWork
 
 
-Web :
+**Web :**
 
 Vue.js
 Threejs
@@ -54,7 +54,7 @@ OpenCV
 Pagejs
 
 
-Processing : 
+**Processing : **
 
 CP5
 TheMidiBus
