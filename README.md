@@ -141,6 +141,7 @@ Cette Estetique qui se degage de ces jeux etait le seul moyen de jouer a des jeu
 
 
 - https://thecreativeindependent.com/people/min-guhong/#3 --> Video de lui, site web
+- https://medialab.sciencespo.fr/equipe/robin-de-mourat/
 
 
 Etienne Klein (Vulgarisation):
