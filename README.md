@@ -46,22 +46,22 @@ empirique.
 
 **Web :**
 
-Vue.js
-Threejs
-A-frame
-P5js
-OpenCV
-Pagejs
+- Vue.js
+- Threejs
+- A-frame
+- P5js
+- OpenCV
+- Pagejs
 
 
 **Processing : **
 
-CP5
-TheMidiBus
-Ani
-Minim
-VLCJvideo
-PeasyCam
+- CP5
+- TheMidiBus
+- Ani
+- Minim
+- VLCJvideo
+- PeasyCam
 
 
 
