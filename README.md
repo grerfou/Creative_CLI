@@ -24,12 +24,12 @@
 
 
 07/03/2024 :
-Pourquoi ne pas adopter un hestétique voulu de 
-"Terminal/ligne de commande" mais avec beacoup 
-d'element cliquanble et interactif.
-Cela permettrait une approche en douceur de ce 
-milllieu/univert pour demistifier un hestetique 
-empirique.
+Pourquoi ne pas adopter un hestétique voulu de  
+"Terminal/ligne de commande" mais avec beacoup  
+d'element cliquanble et interactif.  
+Cela permettrait une approche en douceur de ce  
+milllieu/univert pour demistifier un hestetique  
+empirique.  
 
 
 
