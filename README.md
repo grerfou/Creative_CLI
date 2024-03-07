@@ -114,10 +114,10 @@ LINK==> https://www.terminaltutor.com/
 #### Angband        ==> https://rephial.orgi
 ##### Un jeu de rôle et d'aventure en ASCII basé sur le monde de Tolkien où vous explorez des donjons infestés de monstres.
 
-- Ces jeux qu'il soit contemporain, encien, artistique ou pas, ils on tous un point en commun se sont des jeux qui se joue ou pourrait se jouer dans un invité de commande car il sont tourt fait en ascii et ont tous de commade au clavier pour jouer.
+- Ces jeux qu'il soit contemporain, encien, artistique ou pas, ils on tous un point en commun se sont des jeux qui se joue ou pourrait se jouer dans un invité de commande car il sont tourt fait en ascii et ont tous besoin de commade au clavier pour jouer.
 
-- Certain de ces jeux ;font partie de début des jeux video, cette esthétique et cette maniere de jouer ces jeux est simplement tirer du fait qu'a l'epoque les performance et le moyen ne permettait pas de faire des jeux autrement que via de l'ascii.  
-Cette Estetique qui se degage de ces jeux e
+- Certain de ces jeux font partie de début des jeux video, cette esthétique et cette maniere de jouer ces jeux est simplement tirer du fait qu'a l'epoque les performance et le moyen ne permettait pas de faire des jeux autrement que via de l'ascii.  
+Cette Estetique qui se degage de ces jeux etait le seul moyen de jouer a des jeux sur un ordinateur. Je pence qu'on pourrait appeler ces jeux, jeux CLI (command line interface). 
 
 ----------------------------------------------------------
 
