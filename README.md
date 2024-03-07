@@ -73,14 +73,25 @@ empirique.
 
 #### Lusse Stdio ==> https://luuse.io/
 
-
 ##### HOLOROGIUM FLOERAE : 
 
 - Site de Documentation, La carte sur le site a été faite par au patterne de fleur dans le livre "De conspectu hortorum". Sur ce principe il ont devellopé un programme qui permet de convertire des carte botannique en ascci.  
 LINK ==> https://horologiumflorae.fr
 
+----------------------------------------------------------
+  
+----------------------------------------------------------
+
+#### Terminal Temple ==> https://www.terminaltemple.com/
+
+##### Online UNIX terminal simulator (bash, shell, zsh - Linux, Mac, BSD) : 
+
+- Site simulant un terminal UNIX en ligne, avec les commandes de bases d'un terminal UNIX ==> "Supported commands: cal, cat, cd, cp, date, echo, find, help, logname, ls, mkdir, mv, pwd, resetterm, rm, touch".
+Il inclu aussi un lien Redirigeant vert un site interactif pour apprendre les base du terminal UNIX, Le site me parrait bien cossu car l'ecrant est partager en deux et la lesson et le terminal et lui meme sont relier dans l'apprentissage de commades.  
+LINK==> https://www.terminaltutor.com/
 
 ----------------------------------------------------------
+
 
 
 - https://thecreativeindependent.com/people/min-guhong/#3 --> Video de lui, site web
