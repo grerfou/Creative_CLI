@@ -8,13 +8,14 @@
 
 - Comment rendre le logiciel accécible ?
 
-- **Comment rendre le logiciel compréhenssible ?**
+**Comment rendre le logiciel compréhenssible ?**
 - Quesqu'il se passe quand je selectionne une otion ?
 - Comment renbdre le "build" compréhenssible ?
 
 **La question de comment run le projet ?**
 - Laisser plusier option de compilation et de run sur le projet documenter sur le README.md
 
+**Quesque la vulgarisation ?**
 - La question de comment "informer" et guider sur les otption choisit (langage, framework, librairy) ?
 
 
@@ -29,8 +30,9 @@ Pourquoi ne pas adopter un hestétique voulu de
 d'element cliquanble et interactif.  
 Cela permettrait une approche en douceur de ce
 milllieu/univert pour demistifier un hestetique
-empirique.
-
+empirique.  
+Il n'est pas nessaire d'avoir une souris pour 
+avoir de l'interaction.
 
 
 
@@ -95,6 +97,18 @@ LINK==> https://www.terminaltutor.com/
 
 ----------------------------------------------------------
 
+#### Yannick Gregoire ==> https://yannickgregoire.nl/
+
+##### Site web portfolio d'un Develloper créatif
+
+- Ce site portfolio est fait de facon à ce l'on puisse naviger "normalement" ou l'on peut tout visiter par le biaus de la souris. 
+
+- Mais on peut aussi naviger par le biais de certaines touches, comme si on on ouvraie le CLI nano pour la premiere fois, on comme une espece de "Docuementation/Lexique" qui va expliquer qu'avec entre cinq et 9 touche nous n'avons pas besoin de souris pour faire le néssaicére.
+
+----------------------------------------------------------
+
+----------------------------------------------------------
+
 ```
  __  __          __                                                           
 /\ \/\ \  __    /\ \                                                          
@@ -127,8 +141,6 @@ Cette Estetique qui se degage de ces jeux etait le seul moyen de jouer a des jeu
 
 
 - https://thecreativeindependent.com/people/min-guhong/#3 --> Video de lui, site web
-- https://www.terminaltutor.com/tutorial-contents
-- https://yannickgregoire.nl/
 
 
 
