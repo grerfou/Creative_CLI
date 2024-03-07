@@ -6,16 +6,16 @@
 
 ## Les questions : 
 
-Comment rendre le logiciel accécible ?
+- Comment rendre le logiciel accécible ?
 
-Comment rendre le logiciel compréhenssible ?
--Quesqu'il se passe quand je selectionne une otion ?
--Comment renbdre le "build" compréhenssible ?
+- **Comment rendre le logiciel compréhenssible ?**
+- Quesqu'il se passe quand je selectionne une otion ?
+- Comment renbdre le "build" compréhenssible ?
 
-La question de comment run le projet ?
+**La question de comment run le projet ?**
 - Laisser plusier option de compilation et de run sur le projet documenter sur le README.md
 
-La question de comment "informer" et guider sur les otption choisit (langage, framework, librairy) ?
+- La question de comment "informer" et guider sur les otption choisit (langage, framework, librairy) ?
 
 
 
