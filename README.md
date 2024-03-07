@@ -88,7 +88,7 @@ LINK ==> https://horologiumflorae.fr
 
 - Site simulant un terminal UNIX en ligne, avec les commandes de bases d'un terminal UNIX ==> "Supported commands: cal, cat, cd, cp, date, echo, find, help, logname, ls, mkdir, mv, pwd, resetterm, rm, touch". 
 
-Il inclu aussi un lien Redirigeant vert un site interactif pour apprendre les base du terminal UNIX, Le site me parrait bien cossu car l'ecrant est partager en deux et la lesson et le terminal et lui meme sont relier dans l'apprentissage de commades.  
+- Il inclu aussi un lien Redirigeant vert un site interactif pour apprendre les base du terminal UNIX, Le site me parrait bien cossu car l'ecrant est partager en deux et la lesson et le terminal et lui meme sont relier dans l'apprentissage de commades.  
 LINK==> https://www.terminaltutor.com/
 
 ----------------------------------------------------------
