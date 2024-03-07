@@ -37,15 +37,15 @@ empirique.
 
 ## Liste non-exaustive de langage, librairie, frameWork : 
 
-**C/Cpp :**
-
+**C/Cpp :**  
+  
 - Raylib
 - OpenCV
 - OpenframeWork
 
 
-**Web :**
-
+**Web :**  
+  
 - Vue.js
 - Threejs
 - A-frame
@@ -54,8 +54,8 @@ empirique.
 - Pagejs
 
 
-**Processing : **
-
+**Processing :**  
+  
 - CP5
 - TheMidiBus
 - Ani
@@ -71,14 +71,13 @@ empirique.
 
 ----------------------------------------------------------
 
-Lusse Stdio ==> https://luuse.io/
+#### Lusse Stdio ==> https://luuse.io/
 
 ```
  ____  ____  _____   ____  ____  ___  ____  
 (  _ \(  _ \(  _  ) (_  _)( ___)/ __)(_  _)  ()  
  )___/ )   / )(_)( .-_)(   )__)( (__   )(  
 (__)  (_)\_)(_____)\____) (____)\___) (__)   ()  
-
 ```
 
 HOLOROGIUM FLOERAE : 
