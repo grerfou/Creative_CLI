@@ -113,6 +113,8 @@ LINK==> https://www.terminaltutor.com/
 ##### Un jeu de gestion et de construction où vous construisez et gérez une forteresse naine dans un monde généré de manière procédurale.
 #### Angband        ==> https://rephial.orgi
 ##### Un jeu de rôle et d'aventure en ASCII basé sur le monde de Tolkien où vous explorez des donjons infestés de monstres.
+#### Synthia        ==> https://synthia.love/
+##### Synthia est un terminal alimenté par l'IA qui présente l'avenir de la narration et de l'IA. Une IA bienveillante sert de guide et de narrateur dans un monde virtuel. 
 
 - Ces jeux qu'il soit contemporain, encien, artistique ou pas, ils on tous un point en commun se sont des jeux qui se joue ou pourrait se jouer dans un invité de commande car il sont tourt fait en ascii et ont tous besoin de commade au clavier pour jouer.
 
@@ -126,7 +128,6 @@ Cette Estetique qui se degage de ces jeux etait le seul moyen de jouer a des jeu
 
 - https://thecreativeindependent.com/people/min-guhong/#3 --> Video de lui, site web
 - https://www.terminaltutor.com/tutorial-contents
-- https://synthia.love/
 - https://yannickgregoire.nl/
 
 
