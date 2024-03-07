@@ -68,15 +68,8 @@ empirique.
 
 ## References : 
 
-- https://thecreativeindependent.com/people/min-guhong/#3 --> Video de lui, site web
-- https://www.terminaltutor.com/tutorial-contents
-- https://synthia.love/
-- https://yannickgregoire.nl/
 
-
-
-
-//----------------------------------------------------------
+----------------------------------------------------------
 
 Lusse Stdio ==> https://luuse.io/
 
@@ -98,11 +91,13 @@ convertire des carte botannique en ascci.
 LINK ==> https://horologiumflorae.fr
 
 
+----------------------------------------------------------
+
+
+- https://thecreativeindependent.com/people/min-guhong/#3 --> Video de lui, site web
+- https://www.terminaltutor.com/tutorial-contents
+- https://synthia.love/
+- https://yannickgregoire.nl/
 
 
 
-
-
-
-
-//----------------------------------------------------------
