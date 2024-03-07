@@ -71,7 +71,7 @@ empirique.
 
 ----------------------------------------------------------
 
-#### Lusse Stdio ==> https://luuse.io/
+#### Lusse Studio ==> https://luuse.io/
 
 ##### HOLOROGIUM FLOERAE : 
 
