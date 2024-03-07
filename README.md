@@ -107,15 +107,17 @@ LINK==> https://www.terminaltutor.com/
                                             \_/__/
 ```
 
+#### NetHack        ==> https://www.nethack.org/
+##### Jeu de rôle et d'aventure en ASCII où vous explorez des donjons, combattez des monstres et trouvez des trésors.
+#### Dwarf Fortress ==> http://www.bay12games.com/dwarves/screens.html
+##### Un jeu de gestion et de construction où vous construisez et gérez une forteresse naine dans un monde généré de manière procédurale.
+#### Angband        ==> https://rephial.orgi
+##### Un jeu de rôle et d'aventure en ASCII basé sur le monde de Tolkien où vous explorez des donjons infestés de monstres.
 
-#### Terminal Temple ==> https://www.terminaltemple.com/
+- Ces jeux qu'il soit contemporain, encien, artistique ou pas, ils on tous un point en commun se sont des jeux qui se joue ou pourrait se jouer dans un invité de commande car il sont tourt fait en ascii et ont tous de commade au clavier pour jouer.
 
-##### Online UNIX terminal simulator (bash, shell, zsh - Linux, Mac, BSD) : 
-
-- Site simulant un terminal UNIX en ligne, avec les commandes de bases d'un terminal UNIX ==> "Supported commands: cal, cat, cd, cp, date, echo, find, help, logname, ls, mkdir, mv, pwd, resetterm, rm, touch". 
-
-- Il inclu aussi un lien Redirigeant vert un site interactif pour apprendre les base du terminal UNIX, Le site me parrait bien cossu car l'ecrant est partager en deux et la lesson et le terminal et lui meme sont relier dans l'apprentissage de commades.  
-LINK==> https://www.terminaltutor.com/
+- Certain de ces jeux ;font partie de début des jeux video, cette esthétique et cette maniere de jouer ces jeux est simplement tirer du fait qu'a l'epoque les performance et le moyen ne permettait pas de faire des jeux autrement que via de l'ascii.  
+Cette Estetique qui se degage de ces jeux e
 
 ----------------------------------------------------------
 
