@@ -129,6 +129,7 @@ LINK==> https://www.terminaltutor.com/
 ##### Un jeu de rôle et d'aventure en ASCII basé sur le monde de Tolkien où vous explorez des donjons infestés de monstres.
 #### Synthia        ==> https://synthia.love/
 ##### Synthia est un terminal alimenté par l'IA qui présente l'avenir de la narration et de l'IA. Une IA bienveillante sert de guide et de narrateur dans un monde virtuel. 
+#### AdelFaure        ==> https://adelfaure.net/
 
 - Ces jeux qu'il soit contemporain, encien, artistique ou pas, ils on tous un point en commun se sont des jeux qui se joue ou pourrait se jouer dans un invité de commande car il sont tourt fait en ascii et ont tous besoin de commade au clavier pour jouer.
 
