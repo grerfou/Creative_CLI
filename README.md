@@ -137,7 +137,7 @@ Cette Estetique qui se degage de ces jeux etait le seul moyen de jouer a des jeu
 
 ----------------------------------------------------------
 
-see documentation [here](./Ressoure/Article_Etienne_Klein.md)
+see documentation [here](./Ressource/Article_Etienne_Klein.md)
 
 
 
