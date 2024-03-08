@@ -8,7 +8,8 @@ Eteinne Klein ==> Article
 Etienne Klein --> France inter--> "La vulgarisation n'est plus seulement un projet culturel, mais politique"
 
 
-Etienne Klein est un physicien, phylosophe, Vulgarisateur, qui prend 
+Etienne Klein est un physicien, phylosophe, Vulgarisateur,  
+qui prend 
 position sur des sujet de transmission et d'apprentissage.
 Dans cette interview en parlant de sont livre il dirt de sont livre 
 que se n'est pas un livree sur l'interdisciplinarité mais qu'il 
