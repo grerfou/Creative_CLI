@@ -137,7 +137,12 @@ Cette Estetique qui se degage de ces jeux etait le seul moyen de jouer a des jeu
 
 ----------------------------------------------------------
 
-see documentation [here](./Ressource/Article_Etienne_Klein.md)
+J'ai ecrit un article sur une une conférence d'Etienne Klein et sur une de ces interview pour un de ces livres :  
+
+- https://www.youtube.com/watch?v=JKavWKybIKU  
+- https://www.youtube.com/watch?v=RwnicOFHehc  
+
+Vous pouvez aller voir sa [ici](./Ressource/Article_Etienne_Klein.md)
 
 
 
