@@ -140,18 +140,22 @@ Cette Estetique qui se degage de ces jeux etait le seul moyen de jouer a des jeu
 
 
 
-- https://thecreativeindependent.com/people/min-guhong/#3 --> Video de lui, site web
-- https://medialab.sciencespo.fr/equipe/robin-de-mourat/
-
-----------------------------------------------------------
-
-Etienne Klein (Vulgarisation):
-
-- https://www.youtube.com/watch?v=JKavWKybIKU
-- https://www.youtube.com/watch?v=RwnicOFHehc
-- http://etienneklein.fr/livres/philo/ecrire_science/
 
 
-----------------------------------------------------------
 
-- problemata.org/fr/resources/678
+**Ref (A faire)**
+
+- https://thecreativeindependent.com/people/min-guhong/#3 --> Video de lui, site web  
+- https://medialab.sciencespo.fr/equipe/robin-de-mourat/  
+  
+----------------------------------------------------------  
+  
+Etienne Klein (Vulgarisation):  
+  
+- https://www.youtube.com/watch?v=JKavWKybIKU  
+- https://www.youtube.com/watch?v=RwnicOFHehc  
+- http://etienneklein.fr/livres/philo/ecrire_science/  
+  
+----------------------------------------------------------  
+  
+- problemata.org/fr/resources/678  
