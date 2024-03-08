@@ -9,37 +9,41 @@ Etienne Klein --> France inter--> "La vulgarisation n'est plus seulement un proj
 
 
 Etienne Klein est un physicien, phylosophe, Vulgarisateur,  
-qui prend 
-position sur des sujet de transmission et d'apprentissage.
-Dans cette interview en parlant de sont livre il dirt de sont livre 
-que se n'est pas un livree sur l'interdisciplinarité mais qu'il 
-s'agirait surtout de parler de certain soucis de cohérence, il se 
-pose les questions comme si deux domaine différents on une deffinitions 
-d'un meme mot, la definition est-elle la meme ?, si oui, est ce que les 
-les deux partie dises la ou les meme me chose sur cette definition ?, 
-si il ne parle pas de la meme chose pourquoi ces deux chose différente on
-la meme appélation ?, a partir de la il va poser la question A 
-qui faire confience ? et donc a qui faiure confience ?.
-Est-ce qu'un discour phylosophique doit tenir compte des découverte des
-physitien ?, doit-on intégrer ces chose dans nos facon de materiliser 
-le temps ?. 
-Voila ici Les question le préocupe, quand il fait un parallele entre 
-Einstein et les Rolling Stones il se questionne sur la différences de 
-temporalité entre une personnalité mitique qui à revolutionné la maniere 
-scientifique de persevoir le temps et un groupe de rock mitique qui fait 
-ressentir le temps différemment. 
+qui prend position sur des sujet de transmission et d'app-
+-rentissage.Dans cette interview en parlant de sont livre 
+il dirt de sont livre que se n'est pas un livree sur l'in-
+-terdisciplinarité mais qu'il s'agirait surtout de parler 
+de certain soucis de cohérence, il se pose les questions 
+comme si deux domaine différents on une deffinitions d'un
+meme mot, la definition est-elle la meme ?, si oui, est ce 
+que les les deux partie dises la ou les meme me chose sur 
+cette definition ?, si il ne parle pas de la meme chose p-
+-ourquoi ces deux chose différente on la meme appélation ?
+, a partir de la il va poser la question A qui faire conf-
+-ience ? et donc a qui faiure confience ?. Est-ce qu'un d-
+-iscour phylosophique doit tenir compte des découverte des
+physitien ?, doit-on intégrer ces chose dans nos facon de 
+materiliser le temps ?. 
+Voila ici Les question le préocupe, quand il fait un para-
+-llele entre Einstein et les Rolling Stones il se questio-
+-nne sur la différences de temporalité entre une personna-
+-lité mitique qui à revolutionné la maniere scientifique 
+de persevoir le temps et un groupe de rock mitique qui fa-
+-it ressentir le temps différemment. 
 
-Quand il parle de la crise du COVID19, il pence a tout ce qu'il passée 
-mediatiquement Les personne meditisée n'était selon lui pâs les bonne. 
-Il pence que plutot qu'un politique/journaliste/medecin generaliste nous 
-parle de chiffres, d'exponnetielle et de plein d'autre terme et chiffres 
-sans forcément comprendre fondamentalement se que c'est, il y aurais eu 
-une occasion de faire de la vulgarisation scientifique ou faire intervenir 
-des scientifique et des chercheurs quyiu explique ces termes et chiffres, 
-A la place de tout sela selon lui on a laisser place des contreverse parfois 
-factif et prématurer.
-Pour lui cette situation nécessitaient un collectif scientifique, se n'etait 
-selon lui pas un travail individuel. 
+Quand il parle de la crise du COVID19, il pence a tout ce 
+qu'il passée mediatiquement Les personne meditisée n'était 
+selon lui pâs les bonne. Il pence que plutot qu'un politi-
+que/journaliste/medecin generaliste nous parle de chiffres 
+,d'exponnetielle et de plein d'autre terme et chiffres sa-
+-ns forcément comprendre fondamentalement se que c'est, il
+y aurais eu une occasion de faire de la vulgarisation sci-
+-entifique ou faire intervenir des scientifique et des ch-
+-ercheurs quyiu explique ces termes et chiffres, A la pla-
+-ce de tout sela selon lui on a laisser place des contrev-
+erse parfois factif et prématurer.Pour lui cette situation
+nécessitaient un collectif scientifique, se n'etait selon 
+lui pas un travail individuel. 
 
 """
 Ce qu'on demande a un scientifique n'est 
