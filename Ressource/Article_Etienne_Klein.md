@@ -9,27 +9,27 @@ Etienne Klein --> France inter--> "La vulgarisation n'est plus seulement un proj
 
 
 Etienne Klein est un physicien, phylosophe, Vulgarisateur,  
-qui prend position sur des sujet de transmission et d'app-
--rentissage.Dans cette interview en parlant de sont livre 
-il dirt de sont livre que se n'est pas un livree sur l'in-
--terdisciplinarité mais qu'il s'agirait surtout de parler 
-de certain soucis de cohérence, il se pose les questions 
-comme si deux domaine différents on une deffinitions d'un
-meme mot, la definition est-elle la meme ?, si oui, est ce 
-que les les deux partie dises la ou les meme me chose sur 
-cette definition ?, si il ne parle pas de la meme chose p-
--ourquoi ces deux chose différente on la meme appélation ?
-, a partir de la il va poser la question A qui faire conf-
--ience ? et donc a qui faiure confience ?. Est-ce qu'un d-
--iscour phylosophique doit tenir compte des découverte des
-physitien ?, doit-on intégrer ces chose dans nos facon de 
-materiliser le temps ?. 
-Voila ici Les question le préocupe, quand il fait un para-
--llele entre Einstein et les Rolling Stones il se questio-
--nne sur la différences de temporalité entre une personna-
--lité mitique qui à revolutionné la maniere scientifique 
-de persevoir le temps et un groupe de rock mitique qui fa-
--it ressentir le temps différemment. 
+qui prend position sur des sujet de transmission et d'app-  
+-rentissage.Dans cette interview en parlant de sont livre  
+il dirt de sont livre que se n'est pas un livree sur l'in-  
+-terdisciplinarité mais qu'il s'agirait surtout de parler  
+de certain soucis de cohérence, il se pose les questions  
+comme si deux domaine différents on une deffinitions d'un  
+meme mot, la definition est-elle la meme ?, si oui, est ce  
+que les les deux partie dises la ou les meme me chose sur  
+cette definition ?, si il ne parle pas de la meme chose p-  
+-ourquoi ces deux chose différente on la meme appélation ?  
+, a partir de la il va poser la question A qui faire conf-  
+-ience ? et donc a qui faiure confience ?. Est-ce qu'un d-  
+-iscour phylosophique doit tenir compte des découverte des  
+physitien ?, doit-on intégrer ces chose dans nos facon de  
+materiliser le temps ?.  
+Voila ici Les question le préocupe, quand il fait un para-  
+-llele entre Einstein et les Rolling Stones il se questio-  
+-nne sur la différences de temporalité entre une personna-  
+-lité mitique qui à revolutionné la maniere scientifique  
+de persevoir le temps et un groupe de rock mitique qui fa-  
+-it ressentir le temps différemment.  
 
 Quand il parle de la crise du COVID19, il pence a tout ce 
 qu'il passée mediatiquement Les personne meditisée n'était 
