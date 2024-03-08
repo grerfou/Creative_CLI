@@ -150,3 +150,9 @@ comment une connaissance est devenue une connaissance dans l'histoire des idées
 faut du temps, il faut du temps pour argumenter, et pour montrer comment cette 
 connaissance c'est imposer. Le probléme étant que notre cervaux n'aime pas etre 
 contredit.
+
+
+
+
+
+[//]: <>See .odt extention for your txt file 

@@ -129,7 +129,8 @@ LINK==> https://www.terminaltutor.com/
 ##### Un jeu de rôle et d'aventure en ASCII basé sur le monde de Tolkien où vous explorez des donjons infestés de monstres.
 #### Synthia        ==> https://synthia.love/
 ##### Synthia est un terminal alimenté par l'IA qui présente l'avenir de la narration et de l'IA. Une IA bienveillante sert de guide et de narrateur dans un monde virtuel. 
-#### AdelFaure        ==> https://adelfaure.net/
+#### Adel Faure        ==> https://adelfaure.net/
+#####  Adel FAure est un un artiste ACSII au sein du groupe Mistigris et txtmode friend qui crée des typo/jeux vido en ASCII art
 
 - Ces jeux qu'il soit contemporain, encien, artistique ou pas, ils on tous un point en commun se sont des jeux qui se joue ou pourrait se jouer dans un invité de commande car il sont tourt fait en ascii et ont tous besoin de commade au clavier pour jouer.
 
@@ -148,20 +149,9 @@ Vous pouvez aller voir sa [ici](./Ressource/Article_Etienne_Klein.md)
 
 
 
-
 **Ref (A faire)**
 
 - https://thecreativeindependent.com/people/min-guhong/#3 --> Video de lui, site web  
 - https://medialab.sciencespo.fr/equipe/robin-de-mourat/  
-  
-----------------------------------------------------------  
-  
-Etienne Klein (Vulgarisation):  
-  
-- https://www.youtube.com/watch?v=JKavWKybIKU  
-- https://www.youtube.com/watch?v=RwnicOFHehc  
-- http://etienneklein.fr/livres/philo/ecrire_science/  
-  
-----------------------------------------------------------  
-  
+   
 - problemata.org/fr/resources/678  
