@@ -80,9 +80,6 @@ avoir de l'interaction.
 - Site de Documentation, La carte sur le site a été faite par au patterne de fleur dans le livre "De conspectu hortorum". Sur ce principe il ont devellopé un programme qui permet de convertire des carte botannique en ascci.  
 LINK ==> https://horologiumflorae.fr
 
-----------------------------------------------------------
-  
-----------------------------------------------------------
 
 #### Terminal Temple ==> https://www.terminaltemple.com/
 
@@ -93,9 +90,6 @@ LINK ==> https://horologiumflorae.fr
 - Il inclu aussi un lien Redirigeant vert un site interactif pour apprendre les base du terminal UNIX, Le site me parrait bien cossu car l'ecrant est partager en deux et la lesson et le terminal et lui meme sont relier dans l'apprentissage de commades.  
 LINK==> https://www.terminaltutor.com/
 
-----------------------------------------------------------
-
-----------------------------------------------------------
 
 #### Yannick Gregoire ==> https://yannickgregoire.nl/
 
@@ -104,8 +98,6 @@ LINK==> https://www.terminaltutor.com/
 - Ce site portfolio est fait de facon à ce l'on puisse naviger "normalement" ou l'on peut tout visiter par le biaus de la souris. 
 
 - Mais on peut aussi naviger par le biais de certaines touches, comme si on on ouvraie le CLI nano pour la premiere fois, on comme une espece de "Docuementation/Lexique" qui va expliquer qu'avec entre cinq et 9 touche nous n'avons pas besoin de souris pour faire le néssaicére.
-
-----------------------------------------------------------
 
 ----------------------------------------------------------
 
