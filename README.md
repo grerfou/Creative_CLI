@@ -6,7 +6,8 @@
 
 ## Les questions : 
 
-- Comment rendre le logiciel accécible ?
+**- Comment rendre le logiciel accécible ?**
+**- Mettre de la doc à disposition ? (curl in terminal)**
 
 **Comment rendre le logiciel compréhenssible ?**
 - Quesqu'il se passe quand je selectionne une otion ?

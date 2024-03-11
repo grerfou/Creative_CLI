@@ -155,9 +155,71 @@ contredit.
 
 
 
-[//]: <> See .odt extention for your txt file 
 
 
 Etienne Klein --> France --> https://www.youtube.com/watch?v=JKavWKybIKU
 
 
+
+"Les echec de la vulgarisation"
+
+
+Le biais de la vulgarisation sont biaiser,  
+ne vont vers la vulgarisation que ceux qui  
+s'interresse a la vulgarisation (cet a dire  
+trés peut de gens).  
+  
+Il y des problémes de "traumatisme", il se mettent des rempart, il ne sont meme pas autoriser a ecouter quelqu'un qui parle de science.
+
+--En parlant de prisonnier--
+
+
+En dicutant avec Alex khan --> Alex Kahn lui dit  
+"Nous les scientifique on a foirée"n il était  
+tromatiser par le nombre de fake new de contre-verité,  
+de menssonge qui circulait dans la sphere mediathique 
+par rapport au cauvid-19.
+
+Un nouvelle étude "TEAMS" qui evalue les compétence en 
+science et mathématique du cm1 a la 4ieme, nous somme 
+avant dernier de la liste avan le Chili.Ce classement 
+ne provoque aucune reaction, chez les poliques, de 
+l'éducation nationnal, le probleme n'est pas qu soit 
+bas mais qu'il séffondre.  
+
+En Allemegne, en 2003 est passer de la 3ieme a la 6ieme 
+place au classemnt pisa, il ont fait plein de chose pour 
+remobiliser, pour faire quelqu'e chose.
+
+La crise sanitaire à été une occasion unique de faire de 
+la pedagogie scientifique, les gens était intéresser engoisser 
+il avait besoins de réponces avait besoin de comprendre, et 
+donc on avait l'occasion historique de d'expliquer jour aprés 
+jour en temps réel, les methodologie scientifique.
+
+On avait l'occasion en parlant des medicament d'expliquer 
+ce q'est un essaie en double aveugle, sa consiste en quoi ?
+Ce qu'est un essaie randomiser.
+On avait l'occasion d'expliquer ce qu'est une exponnentielle,
+qui est devenue un mot de la langue commune.
+MAis j'ai fait un sondage dans mon immeuble, Pour les gens 
+qu'il connais, une exponnetielle est une fonction de trés 
+haute valeur qui croie trés vite.
+Alors qu'une exponnentielle au debut sa croie tout doucement 
+et sa n'en est pas moin une exponnetielle.
+Si on avait fait cette pedagogie sa aurais eviter d'entendre 
+des phrases comme, "La courbe menace de devenir exponnetielle",
+ou encore plus impressionnant, 
+"L'exponnentielle va bientot atteindre sojn point d'inflexion",
+On pourrais dire "C'est trop compliquer l'exponnentielle, 
+c'est une fonction égale à sa deriver " sa veut dire quoi ? 
+
+
+J'était en Allemegne en juillet 2021, il a assistée a une conférence 
+de presse d'angela merquelle, sans l'aide d'un tableau, sans l'aide 
+d'assistant de ministre etc.., qui a expliquer au Allement de tout les 
+niveaux scolaire ce qu'est une exponnentielle, de facon trés detailler 
+en y prennant le tempsj et je ne croie pas savoir que l'odimate a 
+bruttalement décrocher.
+Sa interesse es gens.
+Et nous on estime que sa ne les interesse pas, donc on parle d'exponnetielle 
