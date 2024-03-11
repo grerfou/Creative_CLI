@@ -143,14 +143,10 @@ Cette Estetique qui se degage de ces jeux etait le seul moyen de jouer a des jeu
 
 ----------------------------------------------------------
 
-Mon article sur la vulgarisation inspirer d'une conférence et d'un article d'Etienne Klein :
+Mon [article](./Ressource/Article_Etienne_Klein.md) sur la vulgarisation inspirer d'une conférence et d'une interview d'Etienne Klein 
 
-- https://www.youtube.com/watch?v=JKavWKybIKU  
 - https://www.youtube.com/watch?v=RwnicOFHehc  
-
-Vous pouvez aller voir [L'article](./Ressource/Article_Etienne_Klein.md) ici !
-
-
+- https://www.youtube.com/watch?v=JKavWKybIKU  
 
 
 **Ref (A faire)**
