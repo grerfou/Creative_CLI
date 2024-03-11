@@ -35,7 +35,13 @@ Il n'est pas nessaire d'avoir une souris pour
 avoir de l'interaction.
 
 
+### Articles :  
+  
 
+Mon [article](./Ressource/Article_Etienne_Klein.md) sur la vulgarisation inspirer d'une conférence et d'une interview d'Etienne Klein :  
+  
+- https://www.youtube.com/watch?v=RwnicOFHehc  
+- https://www.youtube.com/watch?v=JKavWKybIKU  
 
 ## Liste non-exaustive de langage, librairie, frameWork : 
 
@@ -142,12 +148,6 @@ LINK==> https://www.terminaltutor.com/
 Cette Estetique qui se degage de ces jeux etait le seul moyen de jouer a des jeux sur un ordinateur. Je pence qu'on pourrait appeler ces jeux, jeux CLI (command line interface). 
 
 ----------------------------------------------------------
-
-Mon [article](./Ressource/Article_Etienne_Klein.md) sur la vulgarisation inspirer d'une conférence et d'une interview d'Etienne Klein 
-
-- https://www.youtube.com/watch?v=RwnicOFHehc  
-- https://www.youtube.com/watch?v=JKavWKybIKU  
-
 
 **Ref (A faire)**
 
