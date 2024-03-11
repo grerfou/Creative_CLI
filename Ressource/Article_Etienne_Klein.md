@@ -222,4 +222,79 @@ niveaux scolaire ce qu'est une exponnentielle, de facon trés detailler
 en y prennant le tempsj et je ne croie pas savoir que l'odimate a 
 bruttalement décrocher.
 Sa interesse es gens.
-Et nous on estime que sa ne les interesse pas, donc on parle d'exponnetielle 
+Et nous on estime que sa ne les interesse pas, donc on parle 
+d'exponnetielle sans jamais expliquer a quoi sa consiste. 
+
+On aurrais pu aussi, passer beaucoup de temps à expliquer la théorie 
+des probabilitées, en tout cas certaiuns espet élémentaire par exemple
+quand on dit d'un test, qu'il est efficaces a 95%, quesqu'e sa veut 
+dire, quand on dit d'un vaccin qu'il est efficace à 95%, sa veut dir quoi ? 
+Que veut dire le 95% ? 
+Jamais exliquer.
+Alors que c'est trés subtile et trés interessant, mais a n'est pas 
+l'explication qui à convaincu mon immeuble, qui lui pence que, efficace à 95% 
+sa veut dire que si vous etes contaminées par le virus 95% d'entre eux 
+seront tué par le vaccin, c'est pas sa que sa veut dire.
+
+Pourquoi ne fait ijn pas de pedagogie ?
+Pourquoi on çà remplacer, les exercices pedagogique, dont il maintien 
+sans en avoir la preuve qu'il aurais interesser le public, pourquoi on 
+l'a remplacer par de fausse controverse, par des débat pré-organiser d'une
+certaine facon par le choix des invitées, on invites des gens dont on sais 
+qu'ils ne sont pas daccort, on provoque des clash, dont on sais qu'ils 
+provoque une augmentation de l'audimat, et on invites des gens qui parle 
+au-dela de ce que l'on sais.
+
+Puisque le temps de la recherche n'a pas été suffisemment long pour qu'on 
+ai la réponces au questions posée, et sa c'est un interrogation que j'ai.
+Imagioniner qu'on est passer tout le temps en contreverse stériles ou 
+prématurer à faire de la pedagogie.
+
+
+
+La vulgarisation sembe efficace mais elle est contreproductive.
+Un philose a fait un conférence a été interogger par un journaliste
+et à dit "Le changement climatique ne dopit ria l'activité humaines",
+sa vient simplement du fait que à coté d'une autre il existe un monde 
+parallele  dans lesquel les flucuations du vide quantique transmise par 
+un troue de verre, vienne réchauffer le coeur de la terre. Et il explique 
+tout ces trucs la, ce qui montre qu'il a eu un contact trés sérrer avec 
+la vulgarisation, il connais des termes, fluctuations du vide quantique, 
+troue de ver etc..., il connais sont affaires.
+Et dailleurs il fait un cours sur les univers bulle, evidemment son insertion
+est delirante, et c'est pas grave tout le monde à le droit de delirer et 
+personne ne peut prétendre étre à l'abri de telles dérives, mais ce qui m'a 
+frapée c'est l'absence de reactions, pas de réaction du journaliste, pas de 
+reactions de la salle..., comment c'est possible, c'est comme si Donald Trump 
+avait gagné.
+Popur les vulgarisateur l'election de donald Trump c'est un truc...
+D'ou vient ces dissimétrie entre les science dur et les sciene humaines et 
+sociales, dans les sciences humaines et sociales on peut etre cencurée,
+si ont a dit une bétise si ont est pas dans l'air du temps, on est parfois meme 
+interdit de parole, alors que les propos que l'on peut tenir dans ces domaines,  
+on peut les repartir sur un spectre beaucoup plus large que dans les science dur, 
+et dans les science dur quand vous en parler, vous popuvez dire des enormité, 
+et sa va.
+On vous le repproche pas, Donald Trump de ce point de vue la est un exemple qu'il 
+faut mediter.
+D'ou vient que l'on peut dire n'mporte quoi sans en payer le prix en matiere de 
+cédit symbolique ?
+Sa ne sont pas des gens qui mentent, car un menteur sais qu'il ment quand il ment,
+La il parle de gens, qui sont indifférents a la verité, il ne la connaisse pas il 
+s'en fiche complétement, c'est ce que les Americain appelle le bullShit.
+
+Un jour ou il donne un cour a centralSupElec, un de ces étudiant, vient le voir 
+aprés le cour et lui dit, 
+"Monsieur Klein j'entent beaucoup de chose fausse dit sur la relativité, vous devrier
+en parler a la television"
+il lui dit : Mais comment faire 
+L'étudiant répond : "j'ai une idée, vous aller a l'institue Didero, et a au cour de 
+votre intervention que einstein était en faite un crétin, que la théorie de la 
+relativité est le fruit d'une influence de lobbys financier qui avait interet a faire croire
+qu'elle était vraie et surtout vous expliquer que E=mc2 est une formule complétement fausse
+et que la vraie formule est E=mc3"
+Klein répond : Et la qu'est-ce qui va se passer ? 
+Létudiant répond "Et ba vous serrez inviter chez Announa, et quand vous y serez, vous 
+dirais que vous avez dit un bétise à l'institue Didero et vous ferez un vraie cour de relativité"
+Et le pire c'est je crois qu'il a raison.
+
