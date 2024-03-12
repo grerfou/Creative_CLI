@@ -1,23 +1,25 @@
 # Creative_CLI
 
 
-## **Projet de logiciel CLI, pour donner un "marche pied" vers une premiere experience de la programmation créative et de la ligne de commande.**
+## **Projet de logiciel CLI, pour donner un "marche pied" vers une premiére expérience de la programmation créative et de la ligne de commande.**
 
 
 ## Les questions : 
 
-**- Comment rendre le logiciel accécible ?**
-**- Mettre de la doc à disposition ? (curl in terminal)**
 
-**Comment rendre le logiciel compréhenssible ?**
-- Quesqu'il se passe quand je selectionne une otion ?
-- Comment renbdre le "build" compréhenssible ?
+**- Comment rendre le logiciel accécible ?**  
+**- Mettre de la doc à disposition ? (curl in terminal)**
+**- Quelle importance y a-t-il à utiliser le terminal ?**
+
+**Comment rendre le logiciel compréhensible ?**
+- Qu'est-ce qu'il se passe quand je sélectionne une option ?
+- Comment rendre le "build" compréhensible ?
 
 **La question de comment run le projet ?**
-- Laisser plusier option de compilation et de run sur le projet documenter sur le README.md
+- Laisser plusieurs option de compilation et de run sur le projet documenter sur le README.md
 
-**Quesque la vulgarisation ?**
-- La question de comment "informer" et guider sur les otption choisit (langage, framework, librairy) ?
+**Qu'est-ce que la vulgarisation ?**
+- La question de comment "informer" et guider sur les option choisit (langage, framework, librairy) ?
 
 
 
@@ -33,7 +35,9 @@ Cela permettrait une approche en douceur de ce
 milllieu/univert pour demistifier un hestetique
 empirique.  
 Il n'est pas nessaire d'avoir une souris pour 
-avoir de l'interaction.
+avoir de l'interaction.  
+  
+#### 11/03/2024 : 
 
 
 ### Articles :  
