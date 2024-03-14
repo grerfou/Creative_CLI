@@ -11,3 +11,11 @@
 - Vulgariser chaque Etapes.
 
 
+Cet outil va s'appuyer su le fonctionnement de git, 
+à chaque commit il demandera un commentaire une image, 
+et sauvegarderas le code. 
+ 
+
+**Documenter chaque étapes :**
+
+Une page conscrer a l'explication du programme et sa documentation.
