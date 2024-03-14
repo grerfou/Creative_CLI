@@ -206,4 +206,40 @@ Cette Estetique qui se degage de ces jeux etait le seul moyen de jouer a des jeu
    
 - problemata.org/fr/resources/678  
 
+- https://www.digitalfolklore.org/
+- https://duckduckgo.com/?q=bultin+bbs+bord&t=newext&atb=v417-2__&iax=images&ia=images&iai=http%3A%2F%2Fstore-images.s-microsoft.com%2Fimage%2Fapps.63034.9007199266517497.038ad5f9-50f9-4106-9ad9-4361d79f6c26.0299a1e8-3914-4f26-a7ea-323ae7f06be8%3Fw%3D180%26h%3D180%26q%3D100
+- https://www.ina.fr/ina-eclaire-actu/video/i00002041/election-presidentielle-1981-annonce-resultat-mitterrand-elu- https://duckduckgo.com/?q=teletext+picture&t=newext&atb=v417-2__&iar=images&iax=images&ia=images
+- https://duckduckgo.com/?q=minitel+term&t=newext&atb=v417-2__&iax=images&ia=images
+- https://nt2.uqam.ca/fr/repertoire/ascii-history-moving-images-0
+- https://etienne.design/portfolio_ok/
+- https://pinaffo-pluvinage.com/
+- https://duckduckgo.com/?q=michel+serres&t=newext&atb=v417-2__&ia=web
+- https://duckduckgo.com/?q=hybridation+algo&t=newext&atb=v417-2__&ia=web
+- https://jennasutela.com/
+- https://duckduckgo.com/?q=ansi+art&t=osx&iax=images&ia=images
+- https://duckduckgo.com/?q=plato+old+computer&t=osx&iax=images&ia=images
+- https://duckduckgo.com/?q=spacewar!&t=osx&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fwww.wemedia.it%2Fcms%2Fwp-content%2Fuploads%2F2017%2F07%2Fspacewar_01-640x494.jpg
+- https://duckduckgo.com/?q=pdp+one+computer&t=osx&iax=images&ia=images&iai=https%3A%2F%2Fwww.arcade-history.com%2Fimages%2Fgame%2F102940_1.png
+- https://duckduckgo.com/?q=zuse+22&t=osx&iax=images&ia=images&iai=https%3A%2F%2Fwww.alamy.com%2Faggregator-api%2Fdownload%3Furl%3Dhttps%3A%2F%2Fc8.alamy.com%2Fcomp%2FHTMTXC%2Fthe-z22-computer-zuse-corporation-museum-of-technology-the-deutsches-HTMTXC.jpg
+- https://fr.wikipedia.org/wiki/Konrad_Zuse
+- https://duckduckgo.com/?q=sketchpad&t=osx&ia=web
+- https://duckduckgo.com/?q=Hypnospace+Outlaw+2019+video+game&ia=images&iax=images
+- https://duckduckgo.com/?q=pygmalion%27s+spectacles+by+stanley+g.+weinbaum&t=osx&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fwww.sffaudio.com%2Fimages12%2FPygmallionsSpectacles565.png
+- https://duckduckgo.com/?q=ivan+sutherland&t=osx&ia=web
+- https://www.youtube.com/watch?v=T7dWvcbNhsU
+- https://robillardstudio.github.io/
+- https://www.google.com/search?client=firefox-b-d&q=guy+debord+
+- https://primitivedesigns.github.io/remakes89/indy/en/
+- https://www.ens.psl.eu/
+- https://duckduckgo.com/?q=Francoise+combe+vulgarisation&t=osx&ia=web
+- https://duckduckgo.com/?q=theorie+design+de+l%27ointeraction&t=osx&ia=web
+- https://duckduckgo.com/?q=jhon+maeda+redactive+books&t=osx&iax=images&ia=images
 
+
+/*
+
+Determiner ce qu'est un terminal. 
+Comment les artiste s'en s'ont emparer! 
+Vernaculaire.
+
+*/
