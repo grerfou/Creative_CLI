@@ -238,8 +238,8 @@ Cette Estetique qui se degage de ces jeux etait le seul moyen de jouer a des jeu
 
 /*
 
-Determiner ce qu'est un terminal. 
-Comment les artiste s'en s'ont emparer! 
-Vernaculaire.
+Determiner ce qu'est un terminal.  
+Comment les artiste s'en s'ont emparer!  
+Vernaculaire.  
 
 */
