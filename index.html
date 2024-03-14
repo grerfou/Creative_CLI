@@ -44,11 +44,12 @@ header{
   border-radius: 10px; 
   margin: 0.1vh;
   border: 1.5px solid Black;
-  padding: 0.5vh;
-  text-align: justify
+  padding: 2vw;
 }
 
 .flex-container {
+  border-radius: 10px; 
+  border: 1.5px solid Black;
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
@@ -71,9 +72,6 @@ header{
   align-self: center;
 }
 
-.doc{
-  padding: 1vw;
-}
 
 </style>
 <body>
@@ -83,7 +81,7 @@ header{
 
     <h3>Historique</h3>
     <div class="contain">
-      <div class="item flex-container">
+      <div class="flex-container">
         <div class="flex-item">
           <img src="./Template_HTML/1.png" alt="IT"/> 
         </div>
@@ -94,37 +92,68 @@ header{
           </p>
         </div>
       </div>
-      <div class="item">
+      <div class="flex-container">
         b
       </div>
-      <div class="item">
+      <div class="flex-container">
         c
       </div>
-      <div class="item">
+      <div class="flex-container">
         d
       </div>
-      <div class="item">
+      <div class="flex-container">
         e
       </div>
-      <div class="item">
+      <div class="flex-container">
         f
       </div>
-      <div class="item">
+      <div class="flex-container">
         g
       </div>
-      <div class="item">
+      <div class="flex-container">
         h
       </div>
-      <div class="item">
+      <div class="flex-container">
         i
       </div>
     </div>
 
     <h3>Références</h3>
-    <p class="item" id="markdownContent">
-        <!-- Contenu Markdown -->
-    </p>
+    <pre class="item" id="markdownContent">
+        <!--Contenu Markdown-->
+    </pre>
 
+
+    <script>
+        function loadTextFile(filePath, callback) {
+            var xhr = new XMLHttpRequest();
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState === XMLHttpRequest.DONE) {
+                    if (xhr.status === 200) {
+                        callback(xhr.responseText);
+                    } else {
+                        console.error("Erreur lors du chargement du fichier");
+                    }
+                }
+            };
+            xhr.open("GET", filePath, true);
+            xhr.send();
+        }
+
+        // Fonction pour supprimer les caractères de ponctuation d'une chaîne de caractères
+        function removePunctuation(text) {
+            return text.replace(/#*/g,"");
+        }
+
+        // Appeler la fonction de chargement pour récupérer le fichier Markdown et supprimer la ponctuation
+        loadTextFile('./Ressource/ref.md', function (textContent) {
+            var contentWithoutPunctuation = removePunctuation(textContent);
+            document.getElementById('markdownContent').innerText = contentWithoutPunctuation;
+        });
+   </script>
+
+
+    <!--
 
     <script>
         // Fonction pour charger un fichier Markdown
@@ -157,6 +186,7 @@ header{
         });
     </script>
 
+    -->
 
     <!--
     <h3>Documentation/Vulgarisation/Explication</h3>
