@@ -120,6 +120,42 @@ header{
       </div>
     </div>
 
+    <h3>Références</h3>
+    <p class="item" id="markdownContent">
+        <!-- Contenu Markdown sera inséré ici -->
+    </p>
+
+
+    <script>
+        // Fonction pour charger un fichier Markdown
+        function loadMarkdownFile(filePath, callback) {
+            var xhr = new XMLHttpRequest();
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState === XMLHttpRequest.DONE) {
+                    if (xhr.status === 200) {
+                        callback(xhr.responseText);
+                    } else {
+                        console.error("Erreur lors du chargement du fichier Markdown");
+                    }
+                }
+            };
+            xhr.open("GET", filePath, true);
+            xhr.send();
+        }
+
+        // Extraire certaines lignes du Markdown
+        function extractLines(markdownContent, startLine, endLine) {
+            var lines = markdownContent.split('\n');
+            var extractedLines = lines.slice(startLine, endLine).join('<br>');
+            return extractedLines;
+        }
+
+        // Fonction Markdown extraire lignes pertinentes
+        loadMarkdownFile('./Ressource/Ref.md', function (markdownContent) {
+            var extractedLines = extractLines(markdownContent, 1, 1000); //  Ligne 10 à 20
+            document.getElementById('markdownContent').innerHTML = extractedLines;
+        });
+    </script>
 
 
     <!--
