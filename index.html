@@ -122,7 +122,7 @@ header{
 
     <h3>Références</h3>
     <p class="item" id="markdownContent">
-        <!-- Contenu Markdown sera inséré ici -->
+        <!-- Contenu Markdown -->
     </p>
 
 
@@ -151,7 +151,7 @@ header{
         }
 
         // Fonction Markdown extraire lignes pertinentes
-        loadMarkdownFile('./Ressource/Ref.md', function (markdownContent) {
+        loadMarkdownFile('./Ressource/ref.md', function (markdownContent) {
             var extractedLines = extractLines(markdownContent, 1, 1000); //  Ligne 10 à 20
             document.getElementById('markdownContent').innerHTML = extractedLines;
         });
