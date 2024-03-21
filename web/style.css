@@ -1,0 +1,75 @@
+
+@font-face{
+  font-family: lausanne;
+  src: url('./Lausanne-Regular.otf')
+}
+
+body {
+  font-family: lausanne;
+  top : none;
+  left : none;
+}
+
+h1 {
+  margin-left: 40px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+header{
+  padding-left: 50vw;
+}
+
+.contain{
+  display: block;
+  text-align: justify;
+}
+
+.item{
+  border-radius: 10px; 
+  margin: 0.1vh;
+  border: 1.5px solid Black;
+  padding: 2vw;
+}
+
+.flex-container {
+  border-radius: 10px; 
+  border: 1.5px solid Black;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-content: space-between;
+  align-items: center;
+}
+
+.flex-item:nth-child(1) {
+  width: 49vw;
+  order: 0;
+  flex: 0 1 auto;
+  align-self: center;
+}
+
+.flex-item:nth-child(2) {
+  width: 49vw;
+  order: 0;
+  flex: 0 1 auto;
+  align-self: center;
+}
+
+.title{
+  margin-top: 10vh;
+}
+
+
+#markdownContentA{
+  border: 1.5px solid Black;
+  border-radius: 10px; 
+  font-size: 0.9rem;
+  text-align: justify;
+  padding: 20vw;
+}
+

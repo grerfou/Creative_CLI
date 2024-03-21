@@ -1,14 +1,5 @@
-```
- ____    __                __               
-/\  _`\ /\ \__            /\ \  __           
-\ \,\L\_\ \ ,_\  __  __   \_\ \/\_\    ___   
- \/_\__ \\ \ \/ /\ \/\ \  /'_` \/\ \  / __`\ 
-   /\ \L\ \ \ \_\ \ \_\ \/\ \L\ \ \ \/\ \L\ \ 
-   \ `\____\ \__\\ \____/\ \___,_\ \_\ \____/ 
-    \/_____/\/__/ \/___/  \/__,_ /\/_/\/___/ 
 
-```
-
+## Studio    
 
 #### Lusse Studio ==> https://luuse.io/
 
@@ -38,19 +29,7 @@
 
 
 
-
-
-```
- __  __          __                                                           
-/\ \/\ \  __    /\ \                                                          
-\ \ \ \ \/\_\   \_\ \     __    ___         __      __      ___ ___      __   
- \ \ \ \ \/\ \  /'_` \  /'__`\ / __`\     /'_ `\  /'__`\  /' __` __`\  /'__`\ 
-  \ \ \_/ \ \ \/\ \L\ \/\  __//\ \L\ \   /\ \L\ \/\ \L\.\_/\ \/\ \/\ \/\  __/ 
-   \ `\___/\ \_\ \___,_\ \____\ \____/   \ \____ \ \__/.\_\ \_\ \_\ \_\ \____\
-    `\/__/  \/_/\/__,_ /\/____/\/___/     \/___L\ \/__/\/_/\/_/\/_/\/_/\/____/
-                                            /\____/                           
-
-```
+## Video Games
 
 
 #### NetHack        ==> https://www.nethack.org/
@@ -64,23 +43,15 @@
 #### Adel Faure     ==> https://adelfaure.net/
 #####  Adel FAure est un un artiste ACSII au sein du groupe Mistigris et txtmode friend qui crée des typo/jeux vido en ASCII art
 
- Ces jeux qu'il soit contemporain, encien, artistique ou pas, ils on tous un point en commun se sont des jeux qui se joue ou pourrait se jouer dans un invité de commande car il sont tourt fait en ascii et ont tous besoin de commade au clavier pour jouer.
+ Ces jeux qu'il soit contemporain, encien, artistique ou pas, ils on tous un point en commun se sont des jeux qui se joue ou pourrait se jouer dans un invité de commande
+ car il sont tourt fait en ascii et ont tous besoin de commade au clavier pour jouer.
 
- Certain de ces jeux font partie de début des jeux video, cette esthétique et cette maniere de jouer ces jeux est simplement tirer du fait qu'a l'epoque les performance et le moyen ne permettait pas de faire des jeux autrement que via de l'ascii.  
-Cette Estetique qui se degage de ces jeux etait le seul moyen de jouer a des jeux sur un ordinateur. Je pence qu'on pourrait appeler ces jeux, jeux CLI (command line interface). 
+ Certain de ces jeux font partie de début des jeux video, cette esthétique et cette maniere de jouer ces jeux est simplement tirer du fait qu'a l'epoque les performance 
+ et le moyen ne permettait pas de faire des jeux autrement que via de l'ascii.  
+ Cette Estetique qui se degage de ces jeux etait le seul moyen de jouer a des jeux sur un ordinateur. Je pence qu'on pourrait appeler ces jeux, jeux CLI (command line interface). 
 
 
-```
- ______               __                                            
-/\__  _\             /\ \              __                           
-\/_/\ \/    __    ___\ \ \___     ___ /\_\     __   __  __     __   
-   \ \ \  /'__`\ /'___\ \  _ `\ /' _ `\/\ \  /'__`\/\ \/\ \  /'__`\ 
-    \ \ \/\  __//\ \__/\ \ \ \ \/\ \/\ \ \ \/\ \L\ \ \ \_\ \/\  __/ 
-     \ \_\ \____\ \____\\ \_\ \_\ \_\ \_\ \_\ \___, \ \____/\ \____\
-      \/_/\/____/\/____/ \/_/\/_/\/_/\/_/\/_/\/___/\ \/___/  \/____/
-                                                  \ \_\             
-                                                   \/_/             
-```
+## Technique
 
 
 #### wttr.in     ==> https://github.com/chubin/wttr.in
@@ -93,18 +64,7 @@ Cette Estetique qui se degage de ces jeux etait le seul moyen de jouer a des jeu
  https://asciidoc.org/
 
 
-
-
-
-```
- ____                      
-/\  _`\                    
-\ \ \/\ \    ___     ___   
- \ \ \ \ \  / __`\  /'___\ 
-  \ \ \_\ \/\ \L\ \/\ \__/ 
-   \ \____/\ \____/\ \____\
-    \/___/  \/___/  \/____/
-```
+## Doc
 
 #### gdscript lesson ==> https://gdquest.github.io/learn-gdscript/?ref=godot-docs#course/lesson-1-what-code-is-like/lesson.tres
 ##### Page avec des exemple interactif permettant de commencer le GDscript
