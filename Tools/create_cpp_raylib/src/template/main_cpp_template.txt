@@ -1,0 +1,27 @@
+#include "raylib.h" 
+ 
+#define WIDTH 800 
+#define HEIGHT 450
+
+
+int main(void) { 
+    // Initialize window 
+    InitWindow(WIDTH, HEIGHT, "Cube and Moving Triangle"); 
+
+    // Main loop 
+    while (!WindowShouldClose()) { 
+
+        // Draw 
+        BeginDrawing();
+
+        ClearBackground(RAYWHITE); 
+ 
+        EndDrawing(); 
+    } 
+    // De-Initialization 
+    CloseWindow(); 
+ 
+    return 0; 
+} 
+ 
+

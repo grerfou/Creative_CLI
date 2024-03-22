@@ -79,7 +79,7 @@ int main() {
         return 1;                                                                     //  1 si erreur 
     }
 
-    char *main_c_content = read_file("../../template/main_c_template.txt");           //  Lit le fichier 
+    char *main_c_content = read_file("../../template/main_cpp_template.txt");           //  Lit le fichier 
     if (main_c_content == NULL) {
         free(makefile_content);                                                       //  Libérent la mémoire 
         return 1;                                                                     //  1 si erreur
@@ -91,7 +91,7 @@ int main() {
         return 1;                                                                     //  1 si erreur
     }
 
-    if (write_file("main.c", main_c_content) != 0) {                                  //  Ecrit main.c
+    if (write_file("main.cpp", main_c_content) != 0) {                                  //  Ecrit main.c 
         free(makefile_content);                                                       //  Libérent la mémoire
         free(main_c_content);                                                         //  Libérent la mémoire 
         return 1;                                                                     //  1 si erreur 
