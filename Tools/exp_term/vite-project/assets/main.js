@@ -5,9 +5,6 @@ import { loadTextFile, extractTitlesFromMarkdown} from './import.js'
 
 var _Readme_Path = "../README.md";
 
-const _Pat = "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";  // Personal access token
-const GithubPseudo = "grerfou";     //  User Name
-const GithubRepo = "Creative_CLI";  //  Repo name 
 
 
 
@@ -15,7 +12,6 @@ document.addEventListener("DOMContentLoaded", function() {
   
   addElementToSidebar("Commit");
 
-  getCommits(GithubPseudo, GithubRepo, _Pat);
   addClickEventToSidebar();
 });
 
