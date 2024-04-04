@@ -38,7 +38,7 @@ void installSoftware(const char *software) {
 
 int main() {
     // Liste des logiciels nécessaires
-    const char *requiredSoftware[] = {"gcc", "make", "raylib", "node"};
+    const char *requiredSoftware[] = {"gcc", "make", "raylib", "node", "processing"};
 
     // Vérifier et installer les logiciels nécessaires
     int i;

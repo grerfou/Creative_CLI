@@ -19,7 +19,7 @@ run : $(EXEC)
 clean :
 	rm -rf *.o
 	rm -rf $(EXEC)
-	rm -r projet
-
+#	rm -r projet
+#	rm -r project_processing
 
 .PHONY : run clean

@@ -1,0 +1,196 @@
+@font-face {
+  font-family: "BurnsExtraLight";
+  src: url("./TWKBurns-ExtraLight.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Lausanne light";
+  src: url("./TWKLausanne-100Italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "EverettMono-Book";
+  src: url("./TWKEverettMono-Book.woff") format("woff");
+}
+
+@font-face {
+  font-family: "EverettMono-Light";
+  src: url("./TWKEverettMono-Light.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Everett-LightItalic";
+  src: url("./TWKEverett-LightItalic.woff") format("woff");
+}
+
+:root {
+  --commit_width: 20vh;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  padding: 0.5vw;
+  margin-right: 5vw;
+  list-style: none;
+  background: white;
+}
+
+li {
+  list-style: none;
+  border: 1px solid black;
+  border-radius: 2px;
+  /*display: block;*/
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 4px;
+  padding-right: 4px;
+  text-align: center;
+  background: black;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  position: fixed;
+}
+
+p {
+  text-align: center;
+  text-align: justify;
+  margin: 0px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.sidebar {
+  width: 200px;
+  font-family: "BurnsExtraLight";
+  font-size: 1.2rem;
+  font-weight: 500;
+  list-style-type: none;
+}
+
+.sidebar ul li {
+  display: inline-block; 
+  margin-bottom: 2px;
+  border: 1px solid black; 
+  padding: 5px; 
+}
+
+.sidebar ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+  border-left: 1px solid black; 
+  border-right: 1px solid black; 
+}
+
+.title {
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-radius: 6px 6px 0px 0px;
+
+  text-align: center;
+  width: var(--commit_width);
+  font-family: "EverettMono-Book";
+  font-size: 1rem;
+  margin-bottom: 0;
+
+  padding-top: 0.125em;
+  padding-right: 0.5em;
+  padding-bottom: 0.125em;
+  padding-left: 0.5em;
+}
+
+.date {
+  font-family: "EverettMono-Light";
+  font-size: 0.7rem;
+  margin: 0;
+  text-align: center;
+  padding-top: 0.125em;
+  padding-right: 0.5em;
+  padding-bottom: 0.125em;
+  padding-left: 0.5em;
+  margin-bottom: 4px;
+
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-radius: 0px 0px 6px 6px;
+}
+
+.text {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-top: 1px solid black;
+  margin-top: 0;
+
+  padding-top: 0.125em;
+  padding-right: 0.5em;
+  padding-bottom: 0.125em;
+  padding-left: 0.5em;
+
+  border-radius: 6px 6px 0px 0px;
+  width: var(--commit_width);
+  font-family: "Everett-LightItalic";
+  font-weight: 300;
+  font-size: 0.9rem;
+}
+
+.file-modif {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-top: 1px solid black;
+  margin-top: 0;
+
+  padding-top: 0.125em;
+  padding-right: 0.5em;
+  padding-bottom: 0.125em;
+  padding-left: 0.5em;
+
+  width: var(--commit_width);
+  font-family: "Everett-LightItalic";
+  font-weight: 300;
+  font-size: 0.9rem;
+}
+
+.modif {
+  border: 1px solid black;
+  margin-top: 0;
+
+  padding-top: 0.125em;
+  padding-right: 0.5em;
+  padding-bottom: 0.125em;
+  padding-left: 0.5em;
+
+  border-radius: 0px 0px 6px 6px;
+  width: var(--commit_width);
+  font-family: "Everett-LightItalic";
+  font-weight: 300;
+  font-size: 0.9rem;
+}
+
+
+
+
+.conte {
+  display: inline-block;
+  margin: 0.5rem;
+}
